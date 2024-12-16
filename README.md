@@ -5,3 +5,6 @@ The Smart Home Security System is an IoT-enabled solution designed to safeguard 
   **Programming Language**: Python
   **IoT Integration**: Raspberry Pi-3
 
+Link in MarkDown-project(https://github.com/Harsha9743/Smart-home-security-system/blob/main/project%202232.pdf)
+
+
