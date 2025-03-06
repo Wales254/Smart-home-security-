@@ -14,9 +14,9 @@ import Adafruit_DHT
 #Email Variables
 SMTP_SERVER = 'smtp.gmail.com' #Email Server (don't change!)
 SMTP_PORT = 587 #Server Port (don't change!)
-GMAIL_USERNAME = 'apssraspberrypi@gmail.com' #change this to match your gmail account
-GMAIL_PASSWORD = 'wdxnewxujlmvusox'  #change tcccccccchis to match your gmail app-password
-sendTo = 'harshavarbhangouda974359@gmail.com'
+GMAIL_USERNAME = 'wesongasydney2@gmail.com' #change this to match your gmail account
+GMAIL_PASSWORD = 'WalsH254@#254'  #change tcccccccchis to match your gmail app-password
+sendTo = 'sydneynyongesa2@gmail.com'
 
 class Emailer:
     def sendmail(self, recipient, subject, content):
