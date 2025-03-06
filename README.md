@@ -1,7 +1,3 @@
-Your **README.md** file should provide a clear and structured explanation of your **Smart Home Security System** project. Below is a well-formatted README template:  
-
----
-
 ## **🛡️ Smart Home Security System**
 🔹 **Motion Detection** | 🔹 **Email Alerts** | 🔹 **Live Camera Streaming** | 🔹 **IoT Sensors Integration**  
 
@@ -113,11 +109,4 @@ Want to improve this project? **Fork the repo, create a new branch, and submit a
 ### **🌟 Follow & Support**
 If you like this project, **give it a ⭐ on GitHub!** 😊  
 
----
-
-## **🎯 Next Steps**
-✅ **Want to deploy this project online?** I can help!  
-✅ **Need help connecting with Firebase or AWS?** Let me know!  
-
-🚀 Let me know if you want me to help you upload this **README.md** to your GitHub repo! 😊
 
